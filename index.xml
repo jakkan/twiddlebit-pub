@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twiddlebit</title>
+    <link>/</link>
+    <description>Recent content on Twiddlebit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-SE</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Tue, 27 Jun 2017 17:39:21 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appar för startups</title>
+      <link>/appar/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>/appar/</guid>
+      <description>Twiddlebit är specialister på att bygga webbapplikationer åt startups. Vi bygger både snabba prototyper och applikationer som skalar.
+Vi tror på att lära känna våra kunder så att vi kan göra kloka val tillsammans.</description>
+    </item>
+    
+    <item>
+      <title>Om mig</title>
+      <link>/bolag/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>/bolag/</guid>
+      <description>Jag som driver Twiddlebit AB heter Jakov Perica. Jag har senast arbetat som utvecklare på DigiExam, ett EdTech startup. Innan det har jag jobbat som managementkonsult och pluggat industriell ekonomi. Men jag fann mitt kall i tech.
+Jag tycker att det är fantastiskt roligt att utveckla applikationer som uppdragsgivare och slutanvändare behöver.
+Jag tar mig an konsultuppdrag och kan också ta hjälp av tidigare kollegor som jag blivit imponerad av för att leverera lite större projekt.</description>
+    </item>
+    
+    <item>
+      <title>Skriv ett par ord</title>
+      <link>/kontakt/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>/kontakt/</guid>
+      <description>Vill du berätta om ett uppdrag, ett samarbete, en idé eller vädret? Skriv gärna ett par ord. Jag läser mer än gärna och svarar så snart jag kan.</description>
+    </item>
+    
+    <item>
+      <title>Små steg i rätt riktning</title>
+      <link>/metod/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>/metod/</guid>
+      <description>Något av det svåraste i ett tech startup är att lära sig exakt vad kunderna vill ha.
+Vi har gärna regelbundna avstämningar med både uppdragsgivare och slutanvändare för att bekräfta riktningen på utvecklingsarbetet.
+Det ska vara enkelt att när som helst testa appen för att kunna få nya idéer och ge feedback.</description>
+    </item>
+    
+  </channel>
+</rss>
